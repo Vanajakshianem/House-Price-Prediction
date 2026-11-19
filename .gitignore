@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+house_price_model.pkl
+model_results.txt
+.streamlit/
