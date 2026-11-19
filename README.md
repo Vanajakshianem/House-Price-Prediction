@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House Price Prediction Using Machine Learning
 
 A beginner-friendly mini project using Python, Applied Mathematics, Linear Regression,
@@ -88,3 +89,7 @@ taking their midpoint and drops rows that cannot be converted.
 The dataset's `price` values are in lakhs in the commonly used Bengaluru dataset.
 Model quality depends on dataset size, quality, and how representative it is.
 A high R² on a small sample does not guarantee real-world accuracy.
+=======
+# House-Price-Prediction
+House Price Prediction using Machine Learning with Python, Linear Regression and Random Forest.
+>>>>>>> 8b1354717f0338450e376786d874c0107fd38e5b
